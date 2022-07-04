@@ -53,3 +53,12 @@ h2{
   background-repeat: no-repeat;
   background-position: left;
 }
+.border-blue{
+  border-left: 10px solid tomato;
+}
+.border-orange{
+  border-left: 10px solid blue;
+}
+footer{
+  text-align: center;
+}
