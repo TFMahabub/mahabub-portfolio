@@ -5,10 +5,13 @@ body{
 h1{
   font-size: 50px;
 }
+h2{
+  font-size: 40px;
+}
 .mahabub{
   color: orange;
 }
-section{
+.fexible{
   display: flex;
   margin-bottom: 100px;
 }
@@ -34,4 +37,19 @@ section{
   background-image: url(images/dream-bg.png);
   background-repeat: no-repeat;
   background-position: right;
+}
+.orange-color{
+  color: orange;
+}
+.experience-item{
+  box-shadow: 10px 10px 30px gray;
+  margin-left: 5%;
+  margin-right: 5%;
+  width: 40%;
+  padding: 20px;
+}
+.experience-area{
+  background-image: url(images/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
 }
